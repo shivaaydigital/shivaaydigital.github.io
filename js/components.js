@@ -34,7 +34,6 @@ let footer = `
                                 <p class="mb-0">+91 9713099220</p>
                             </div>
                             <div class="d-flex mt-4">
-                                <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square" href="#"><i class="fab fa-instagram fw-normal"></i></a>
@@ -58,4 +57,289 @@ let footer = `
             </div>
         </div>
     </div>
+`;
+
+let topbar = `
+    <!-- Topbar Start -->
+    <div class="container-fluid bg-dark px-5 d-none d-lg-block">
+        <div class="row gx-0">
+            <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
+                <div class="d-inline-flex align-items-center" style="height: 45px;">
+                    <small class="me-3 text-light">
+                        <i class="fa fa-map-marker-alt me-2"></i>
+                        Narayan Nagar, Hoshangabad Road, Bhopal
+                    </small>
+                    <small class="me-3 text-light">
+                        <i class="fa fa-phone-alt me-2"></i>
+                        +91 9713099220
+                    </small>
+                    <small class="text-light">
+                        <i class="fa fa-envelope-open me-2"></i>
+                        contact@shivaaycreations.in
+                    </small>
+                </div>
+            </div>
+            <div class="col-lg-4 text-center text-lg-end">
+                <div class="d-inline-flex align-items-center" style="height: 45px;">
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="">
+                        <i class="fab fa-facebook-f fw-normal"></i>
+                    </a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="">
+                        <i class="fab fa-linkedin-in fw-normal"></i>
+                    </a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="">
+                        <i class="fab fa-instagram fw-normal"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar End -->
+`;
+
+let services = `
+    <!-- Service Start -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                <h5 class="fw-bold text-primary text-uppercase">Our Services</h5>
+                <h1 class="mb-0">Products & Solutions</h1>
+                <p>
+                    At Shivaay Creations, we offer an extensive portfolio of technology solutions tailored to meet the unique requirements of enterprise customers. Our range of products includes.
+                </p>
+            </div>
+            <div class="row g-5">
+
+                <!-- First Three -->
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-sim-card text-white"></i>
+                        </div>
+                        <h4 class="mb-3">IoT Solutions and IoT SIMs</h4>
+                        <p class="m-0">
+                            • Enable seamless connectivity and communication for your IoT devices.
+                            <br>
+                            • Harness the power of IoT to optimize operations and improve efficiency.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-comment text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Bulk SMS Solutions</h4>
+                        <p class="m-0">
+                            • Reach your target audience effectively with our scalable and reliable bulk SMS services.
+                            <br>
+                            • Engage customers, promote products, and enhance brand visibility.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-microphone text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Voice and Commercial Data Services</h4>
+                        <p class="m-0">
+                            • Stay connected with high-quality voice services and commercial data plans.
+                            <br>
+                            • Ensure reliable communication channels for your business.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Second Three -->
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-envelope text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Bulk Emails</h4>
+                        <p class="m-0">
+                            • Streamline your email marketing campaigns with our bulk email solutions.
+                            <br>
+                            • Reach a wider audience and drive engagement with personalized emails.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-video text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Zoom Conferencing Products</h4>
+                        <p class="m-0">
+                            • Facilitate seamless virtual collaboration with our Zoom conferencing products.
+                            <br>
+                            • Conduct meetings, webinars, and training sessions with ease.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-microphone text-white"></i>
+                        </div>
+                        <h4 class="mb-3">PRI Solutions</h4>
+                        <p class="m-0">
+                            • Ensure reliable and secure voice connectivity with our PRI solutions.
+                            <br>
+                            • Experience superior call quality and scalability.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Fourth Three -->
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-brands fa-whatsapp text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Chat Apps and Bulk WhatsApp Solutions</h4>
+                        <p class="m-0">
+                            • Leverage popular chat apps and WhatsApp for effective customer engagement.
+                            <br>
+                            • Reach customers instantly and promote your products/services.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-link text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Modern Enterprise Connectivity</h4>
+                        <p class="m-0">
+                            • Explore advanced connectivity options tailored to your enterprise needs.
+                            <br>
+                            • Enhance network performance and enable seamless communication.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-briefcase text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Microsoft 365</h4>
+                        <p class="m-0">
+                            • Leverage the power of Microsoft 365 for enhanced productivity and collaboration.
+                            <br>
+                            • Access essential business tools, communication, and cloud-based services.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Fifth Three -->
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-globe text-white"></i>
+                        </div>
+                        <h4 class="mb-3">SD-WAN (Software-Defined Wide Area Network)</h4>
+                        <p class="m-0">
+                            • Optimize your network performance with our SD-WAN solutions.
+                            <br>
+                            • Achieve greater agility, scalability, and cost-efficiency.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-file text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Document Management System</h4>
+                        <p class="m-0">
+                            • Streamline your document workflows and improve productivity.
+                            <br>
+                            • Digitize, store, and manage documents securely.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-wifi text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Business Broadband</h4>
+                        <p class="m-0">
+                            • Stay connected with our high-speed and reliable business broadband solutions.
+                            <br>
+                            • Experience seamless internet connectivity for your operations.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Sixth Three -->
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-phone text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Centrex and SIP Trunk</h4>
+                        <p class="m-0">
+                            • Simplify your communication infrastructure with Centrex and SIP Trunk solutions.
+                            <br>
+                            • Achieve cost savings and flexibility in managing your telephony.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-globe-americas text-white"></i>
+                        </div>
+                        <h4 class="mb-3">International Bridging Services</h4>
+                        <p class="m-0">
+                            • Expand your global reach with our international bridging services.
+                            <br>
+                            • Establish reliable connections with international partners and clients.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-phone-slash text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Toll-Free Services</h4>
+                        <p class="m-0">
+                            • Enhance customer support and engagement with our toll-free services.
+                            <br>
+                            • Enable easy communication and build customer loyalty.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+`;
+
+let ourClients = `
+    <!-- Vendor Start -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <h5 class="fw-bold text-primary text-uppercase">Our</h5>
+            <h1 class="mb-0">Clients</h1>
+        </div>
+        <div class="container py-5 mb-5">
+            <div class="bg-white">
+                <div class="owl-carousel vendor-carousel">
+                    <img src="img/vendor-1.jpg" alt="">
+                    <img src="img/vendor-2.jpg" alt="">
+                    <img src="img/vendor-3.jpg" alt="">
+                    <img src="img/vendor-4.jpg" alt="">
+                    <img src="img/vendor-5.jpg" alt="">
+                    <img src="img/vendor-6.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Vendor End -->
 `;

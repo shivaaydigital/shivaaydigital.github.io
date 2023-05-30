@@ -5,7 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --bs-blue: #0d6efd;
+  --bs-blue: #2e07ad; /* changed */
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
@@ -18,7 +18,7 @@
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
-  --bs-primary: #06a3da;
+  --bs-primary: #2e07ad; /* changed */
   --bs-secondary: #34ad54;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -2549,8 +2549,8 @@ fieldset:disabled .btn {
 }
 .btn-primary {
   color: #000;
-  background-color: #06a3da;
-  border-color: #06a3da;
+  background-color: #2e07ad; /*changed*/
+  border-color: #2e07ad; /*changed*/
 }
 .btn-primary:hover {
   color: #000;
@@ -6783,7 +6783,7 @@ fieldset:disabled .btn {
   word-break: break-word !important;
 }
 .text-primary {
-  color: #06a3da !important;
+  color: #2e07ad !important; /*changed*/
 }
 .text-secondary {
   color: #34ad54 !important;
@@ -6825,7 +6825,7 @@ fieldset:disabled .btn {
   color: inherit !important;
 }
 .bg-primary {
-  background-color: #06a3da !important;
+  background-color: #2e07ad !important; /*changed*/
 }
 .bg-secondary {
   background-color: #34ad54 !important;
