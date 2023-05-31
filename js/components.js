@@ -116,6 +116,7 @@ let services = `
                         <div class="service-icon">
                             <i class="fa fa-sim-card text-white"></i>
                         </div>
+                        <span class="badge bg-danger">Featured</span>
                         <h4 class="mb-3">IoT Solutions and IoT SIMs</h4>
                         <p class="m-0">
                             • Enable seamless connectivity and communication for your IoT devices.
@@ -129,6 +130,7 @@ let services = `
                         <div class="service-icon">
                             <i class="fa fa-comment text-white"></i>
                         </div>
+                        <span class="badge bg-danger">Featured</span>
                         <h4 class="mb-3">Bulk SMS Solutions</h4>
                         <p class="m-0">
                             • Reach your target audience effectively with our scalable and reliable bulk SMS services.
@@ -198,6 +200,7 @@ let services = `
                         <div class="service-icon">
                             <i class="fa fa-brands fa-whatsapp text-white"></i>
                         </div>
+                        <span class="badge bg-danger">Featured</span>
                         <h4 class="mb-3">Chat Apps and Bulk WhatsApp Solutions</h4>
                         <p class="m-0">
                             • Leverage popular chat apps and WhatsApp for effective customer engagement.
