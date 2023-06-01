@@ -23,7 +23,7 @@ let footer = `
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-geo-alt text-primary me-2"></i>
-                                <p class="mb-0">Narayan Nagar, Hoshangabad Road, Bhopal</p>
+                                <p class="mb-0">155, Narayan Nagar, Hoshangabad Road , Bhopal 462026</p>
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
