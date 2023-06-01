@@ -518,3 +518,13 @@ h6,
     width: 80%;
   }
 }
+
+@media (max-width: 435px) {
+  .navbar {
+    display: block !important;
+    padding: 5px;
+  }
+  .nav-logo {
+    width: 75%;
+  }
+}
