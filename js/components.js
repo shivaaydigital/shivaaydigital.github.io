@@ -23,7 +23,7 @@ let footer = `
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-geo-alt text-primary me-2"></i>
-                                <p class="mb-0">155, Narayan Nagar, Hoshangabad Road , Bhopal 462026</p>
+                                <p class="mb-0">155, Narayan Nagar, Hoshangabad Road, Bhopal 462026</p>
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
@@ -67,7 +67,7 @@ let topbar = `
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light">
                         <i class="fa fa-map-marker-alt me-2"></i>
-                        Narayan Nagar, Hoshangabad Road, Bhopal
+                        155, Narayan Nagar, Hoshangabad Road, Bhopal
                     </small>
                     <small class="me-3 text-light">
                         <i class="fa fa-phone-alt me-2"></i>
