@@ -346,3 +346,26 @@ let ourClients = `
     </div>
     <!-- Vendor End -->
 `;
+
+let ourClientsNew = `
+    <!-- Vendor Start -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <h5 class="fw-bold text-primary text-uppercase">Our</h5>
+            <h1 class="mb-0">Clients</h1>
+        </div>
+        <div class="container py-5 mb-5">
+            <div class="bg-white">
+                <center>
+                    <img src="img/vendor-1.jpg" alt="">
+                    <img src="img/vendor-2.jpg" alt="">
+                    <img src="img/vendor-3.jpg" alt="">
+                    <img src="img/vendor-4.jpg" alt="">
+                    <img src="img/vendor-5.jpg" alt="">
+                    <img src="img/vendor-6.jpg" alt="">
+                </center>
+            </div>
+        </div>
+    </div>
+    <!-- Vendor End -->
+`;
