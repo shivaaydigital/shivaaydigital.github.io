@@ -1,10 +1,10 @@
 <?php
 
 // Get Message Details
-$alert = "New Message - Contact Form";
-$name =  "Name: " . $_POST[''];
-$email =  "Email: " . $_POST[''];
-$message =  "Message: " . $_POST[''];
+$alert = "New Message - Quote Request";
+$name =  "Name: " . $_POST['name'];
+$email =  "Email: " . $_POST['email'];
+$message =  "Message: " . $_POST['message'];
 
 // Test Message Details
 // $alert = "NEW MESSAGE";
