@@ -369,3 +369,108 @@ let ourClientsNew = `
     </div>
     <!-- Vendor End -->
 `;
+
+let ourPartnersNew = `
+    <div class="section-title text-center position-relative mt-5 mx-auto" style="max-width: 600px;">
+        <!-- <h5 class="fw-bold text-primary text-uppercase"></h5> -->
+        <h1 class="mb-0">Authorized Partners</h1>
+    </div>
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5 mb-5">
+            <div class="bg-white">
+                <center>
+                    <img src="img/vendor-7.jpg" alt="">
+                    <img src="img/vendor-8.jpg" alt="">
+                    <img src="img/vendor-9.jpg" alt="">
+                    <img src="img/vendor-10.jpg" alt="">
+                    <img src="img/vendor-11.jpg" alt="">
+                </center>
+            </div>
+        </div>
+    </div>
+`;
+
+let testimonials = `
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+                <h5 class="fw-bold text-primary text-uppercase">Testimonial</h5>
+                <h1 class="mb-0">What Our Clients Say About Our Digital Services</h1>
+            </div>
+            <div class="wow fadeInUp" data-wow-delay="0.6s">
+
+                <!-- Row One -->
+                <div class="row">
+
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                        <!-- Testimonial One -->
+                        <div class=" testimonial-item bg-light my-4">
+                            <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                                <!-- <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;"> -->
+                                <div class="ps-4">
+                                    <h4 class="text-primary mb-1">Shakti Pumps</h4>
+                                    <!-- <small class="text-uppercase">IoT Solutions and IoT SIMs</small> -->
+                                </div>
+                            </div>
+                            <div class="pt-4 pb-5 px-5">
+                                I am extremely satisfied with VI IoT SIMs services provided by Shivaay Creations. The connectivity is reliable, and customer support provided by Shivaay Creations is exceptional. The team is knowledgeable and responsive, addressing all my queries promptly. The pricing is competitive, offering great value for the service provided. I highly recommend Shivaay Creations to anyone looking for reliable IoT connectivity solutions.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                        <!-- Testimonial Two -->
+                        <div class="testimonial-item bg-light my-4">
+                            <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                                <div class="ps-4">
+                                    <h4 class="text-primary mb-1">Thyrocare</h4>
+                                    <!-- <small class="text-uppercase">Profession</small> -->
+                                </div>
+                            </div>
+                            <div class="pt-4 pb-5 px-5">
+                                I am incredibly impressed with Cloud Telephony Services of VI provided by Shivaay Creations. The solutions have revolutionized our communication system. The features provided are extensive and user-friendly. The team at Shivaay Creations ensured a smooth transition, offering excellent support throughout the process. The reliability and efficiency of their services have significantly improved our business operations. I highly recommend Shivaay Creations for their exceptional Cloud Telephony Services & after sales support system.
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Row Two -->
+                <div class="row">
+
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                        <!-- Testimonial Three -->
+                        <div class="testimonial-item bg-light my-4">
+                            <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                                <div class="ps-4">
+                                    <h4 class="text-primary mb-1">Shriram Finance</h4>
+                                    <!-- <small class="text-uppercase">Profession</small> -->
+                                </div>
+                            </div>
+                            <div class="pt-4 pb-5 px-5">
+                                Route Mobile Limited "Bulk SMS & Whatsapp solutions" provided by Shivaay Creations have been a game-changer for our marketing campaigns. The platform is user-friendly and provides seamless integration with our existing systems. The ability to reach our target audience effectively and efficiently has significantly improved our outreach efforts. The team at Shivaay Creations is knowledgeable, responsive, and provides excellent support. I highly recommend their Bulk SMS & Whatsapp solutions to businesses looking for effective and hassle-free communication channels.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                        <!-- Testimonial Four -->
+                        <div class="testimonial-item bg-light my-4">
+                            <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                                <div class="ps-4">
+                                    <h4 class="text-primary mb-1">Chartered Bus</h4>
+                                    <!-- <small class="text-uppercase">Profession</small> -->
+                                </div>
+                            </div>
+                            <div class="pt-4 pb-5 px-5">
+                                Whatsapp solutions of Route Mobile provided by Shivaay Creations have transformed our communication strategy. The platform is intuitive and easy to use, allowing us to engage with our customers effectively. The ability to send personalized messages, images, and even conduct surveys has greatly enhanced our customer interactions. The team at Shivaay Creations has provided excellent support throughout, ensuring a seamless implementation process. I highly recommend their Whatsapp solutions to businesses looking to enhance their customer engagement and streamline their communication channels.
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+`;
