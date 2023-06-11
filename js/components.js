@@ -144,6 +144,7 @@ let services = `
                         <div class="service-icon">
                             <i class="fa fa-microphone text-white"></i>
                         </div>
+                        <span class="badge bg-danger">Featured</span>
                         <h4 class="mb-3">Voice and Commercial Data Services</h4>
                         <p class="m-0">
                             • Stay connected with high-quality voice services and commercial data plans.
@@ -185,6 +186,7 @@ let services = `
                         <div class="service-icon">
                             <i class="fa fa-microphone text-white"></i>
                         </div>
+                        <span class="badge bg-danger">Featured</span>
                         <h4 class="mb-3">PRI Solutions</h4>
                         <p class="m-0">
                             • Ensure reliable and secure voice connectivity with our PRI solutions.
@@ -328,8 +330,8 @@ let ourClients = `
     <!-- Vendor Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
-            <h5 class="fw-bold text-primary text-uppercase">Our</h5>
-            <h1 class="mb-0">Clients</h1>
+            <h5 class="fw-bold text-primary text-uppercase">Some of Our</h5>
+            <h1 class="mb-0">Premium Clients</h1>
         </div>
         <div class="container py-5 mb-5">
             <div class="bg-white">
@@ -351,8 +353,8 @@ let ourClientsNew = `
     <!-- Vendor Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
-            <h5 class="fw-bold text-primary text-uppercase">Our</h5>
-            <h1 class="mb-0">Clients</h1>
+            <h5 class="fw-bold text-primary text-uppercase">Some of Our</h5>
+            <h1 class="mb-0">Premium Clients</h1>
         </div>
         <div class="container py-5 mb-5">
             <div class="bg-white">
@@ -363,6 +365,7 @@ let ourClientsNew = `
                     <img src="img/vendor-4.jpg" alt="">
                     <img src="img/vendor-5.jpg" alt="">
                     <img src="img/vendor-6.jpg" alt="">
+                    <img src="img/vendor-12.jpg" alt="">
                 </center>
             </div>
         </div>
