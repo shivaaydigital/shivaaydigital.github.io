@@ -4,6 +4,7 @@
 $alert = "New Message - Contact Form";
 $name =  "Name: " . $_POST['name'];
 $email =  "Email: " . $_POST['email'];
+$phone =  "Phone: " . $_POST['phone'];
 $subject =  "Subject: " . $_POST['subject'];
 $message =  "Message: " . $_POST['message'];
 
@@ -13,8 +14,7 @@ $message =  "Message: " . $_POST['message'];
 // $email =  "Email: " . "Test";
 // $message =  "Message: " . "Test";
 
-
-$final_message = $alert . "\n" . $name . "\n" . $email . "\n" . $subject . "\n" . $message;
+$final_message = $alert . "\n" . $name . "\n" . $email . "\n" . $phone . "\n" . $message;
 
 $url = "https://api.telegram.org/bot5897503467:AAEH3z4XUP2KmDjnxpVh8o-QN69WIIsdCJg/sendMessage?chat_id=6137503985&text=" . urlencode($final_message);
 // echo $url;

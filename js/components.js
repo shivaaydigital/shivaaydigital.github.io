@@ -81,13 +81,13 @@ let topbar = `
             </div>
             <div class="col-lg-4 text-center text-lg-end">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="">
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/ShivaayCreations">
                         <i class="fab fa-facebook-f fw-normal"></i>
                     </a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="">
                         <i class="fab fa-linkedin-in fw-normal"></i>
                     </a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="">
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/shivaaycreationsofficial/">
                         <i class="fab fa-instagram fw-normal"></i>
                     </a>
                 </div>
@@ -412,7 +412,7 @@ let testimonials = `
                                 <!-- <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;"> -->
                                 <div class="ps-4">
                                     <h4 class="text-primary mb-1">Shakti Pumps</h4>
-                                    <!-- <small class="text-uppercase">IoT Solutions and IoT SIMs</small> -->
+                                    <small class="text-uppercase">Vikas Sharma - IoT Solutions and IoT SIMs</small>
                                 </div>
                             </div>
                             <div class="pt-4 pb-5 px-5">
@@ -427,7 +427,7 @@ let testimonials = `
                             <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                                 <div class="ps-4">
                                     <h4 class="text-primary mb-1">Thyrocare</h4>
-                                    <!-- <small class="text-uppercase">Profession</small> -->
+                                    <small class="text-uppercase">Sachin Wagh - Cloud Telephony Services</small>
                                 </div>
                             </div>
                             <div class="pt-4 pb-5 px-5">
@@ -447,7 +447,7 @@ let testimonials = `
                             <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                                 <div class="ps-4">
                                     <h4 class="text-primary mb-1">Shriram Finance</h4>
-                                    <!-- <small class="text-uppercase">Profession</small> -->
+                                    <small class="text-uppercase">Kuldeep Mishra - Bulk SMS & WhatsApp solutions</small>
                                 </div>
                             </div>
                             <div class="pt-4 pb-5 px-5">
@@ -462,7 +462,7 @@ let testimonials = `
                             <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                                 <div class="ps-4">
                                     <h4 class="text-primary mb-1">Chartered Bus</h4>
-                                    <!-- <small class="text-uppercase">Profession</small> -->
+                                    <small class="text-uppercase">Mahendra - WhatsApp Solutions</small>
                                 </div>
                             </div>
                             <div class="pt-4 pb-5 px-5">
