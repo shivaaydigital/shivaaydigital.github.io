@@ -84,7 +84,7 @@ let topbar = `
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/ShivaayCreations">
                         <i class="fab fa-facebook-f fw-normal"></i>
                     </a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="">
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.linkedin.com/in/shivaay-creations-b72b3427a/">
                         <i class="fab fa-linkedin-in fw-normal"></i>
                     </a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/shivaaycreationsofficial/">
