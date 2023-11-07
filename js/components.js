@@ -366,6 +366,9 @@ let ourClientsNew = `
                     <img src="img/vendor-5.jpg" alt="">
                     <img src="img/vendor-6.jpg" alt="">
                     <img src="img/vendor-12.jpg" alt="">
+                    <img src="img/vendor-14.jpg" alt="">
+                    <img src="img/vendor-15.jpg" alt="">
+                    <img src="img/vendor-16.jpg" alt="">
                 </center>
             </div>
         </div>
@@ -387,6 +390,7 @@ let ourPartnersNew = `
                     <img src="img/vendor-9.jpg" alt="">
                     <img src="img/vendor-10.jpg" alt="">
                     <img src="img/vendor-11.jpg" alt="">
+                    <img src="img/vendor-13.jpg" alt="">
                 </center>
             </div>
         </div>
