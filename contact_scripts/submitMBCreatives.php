@@ -94,15 +94,8 @@ $header .= "Content-type: text/html;charset=UTF-8 \r\n";
 
 $result_mail = mail($to, $subject, $message, $header);
 
-// if ($result_mail == true) {
-//   echo "Message sent successfully!";
-// } else {
-//   echo "Sorry, unable to send mail!";
-// }
-
-// Ending Redirect
-if ($result_db == true && $result_mail == true) {
-    echo "Message Sent!";
+if ($result_mail == true) {
+    echo "Message sent successfully!";
 } else {
-    echo "Error: " . mysqli_error($conn);
+    echo "Sorry, unable to send mail!";
 }
