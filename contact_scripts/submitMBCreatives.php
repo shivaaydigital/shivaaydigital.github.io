@@ -95,7 +95,7 @@ $header .= "Content-type: text/html;charset=UTF-8 \r\n";
 $result_mail = mail($to, $subject, $message, $header);
 
 if ($result_mail == true) {
-    echo "Message sent successfully!";
+    header("Location: https://mb-creatives.com/MessageSent.html");
 } else {
-    echo "Sorry, unable to send mail!";
+    header("Location: https://mb-creatives.com/404");
 }
