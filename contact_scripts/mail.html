@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .table {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        .table td,
+        .table th {
+            border: 1px solid #404040;
+            padding: 8px;
+        }
+
+        .table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .table tr:hover {
+            background-color: #ddd;
+        }
+
+        .table th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #404040;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>New Contact Form Submission - MB Creatives</h2>
+    <p>Source : MB Creatives Contact Form</p>
+
+    <table class='table'>
+        <th>Field</th>
+        <th>Data</th>
+        <tr>
+            <td>Name</td>
+            <td>" . $name . "</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td><a href='mailto:" . $email . "'>" . $email . "</a></td>
+        </tr>
+        <tr>
+            <td>Message</td>
+            <td>" . $message . "</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>" . $date . "</td>
+        </tr>
+    </table>
+</body>
+
+</html>
