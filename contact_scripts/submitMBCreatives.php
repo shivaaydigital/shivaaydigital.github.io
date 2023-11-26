@@ -6,7 +6,7 @@ $email = $_POST['email'];
 $message = $_POST['message'];
 $date = $_POST['date'];
 
-if ($Email == " " || $Email == "") {
+if ($email == " " || $email == "") {
     echo "Error";
     header("Location: https://mb-creatives.com/404");
     die();
