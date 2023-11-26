@@ -102,7 +102,7 @@ $result_mail = mail($to, $subject, $message, $header);
 
 // Ending Redirect
 if ($result_db == true && $result_mail == true) {
-    header("Location: https://mb-creatives.com/");
+    echo "Message Sent!";
 } else {
     echo "Error: " . mysqli_error($conn);
 }
