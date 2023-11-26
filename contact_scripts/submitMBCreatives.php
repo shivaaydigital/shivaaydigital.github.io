@@ -14,7 +14,7 @@ if ($email == " " || $email == "") {
 
 // Forwarding the data to the mail
 // To
-$to = "mbcreatives27@gmail.com";
+$to = "contact@mb-creatives.com";
 
 // Subject
 $subject = "New Contact Form Submission - MB Creatives";
