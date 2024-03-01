@@ -1,4 +1,4 @@
-let footer = `
+const footer = `
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row gx-5">
@@ -59,7 +59,7 @@ let footer = `
     </div>
 `;
 
-let topbar = `
+const topbar = `
     <!-- Topbar Start -->
     <div class="container-fluid bg-dark px-5 d-none d-lg-block">
         <div class="row gx-0">
@@ -97,7 +97,7 @@ let topbar = `
     <!-- Topbar End -->
 `;
 
-let services = `
+const services = `
     <!-- Service Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -326,7 +326,7 @@ let services = `
     <!-- Service End -->
 `;
 
-let ourClients = `
+const ourClients = `
     <!-- Vendor Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
@@ -349,7 +349,7 @@ let ourClients = `
     <!-- Vendor End -->
 `;
 
-let ourClientsNew = `
+const ourClientsNew = `
     <!-- Vendor Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
@@ -359,16 +359,16 @@ let ourClientsNew = `
         <div class="container py-5 mb-5">
             <div class="bg-white">
                 <center>
-                    <img src="img/vendor-1.jpg" alt="">
-                    <img src="img/vendor-2.jpg" alt="">
-                    <img src="img/vendor-3.jpg" alt="">
-                    <img src="img/vendor-4.jpg" alt="">
-                    <img src="img/vendor-5.jpg" alt="">
-                    <img src="img/vendor-6.jpg" alt="">
-                    <img src="img/vendor-12.jpg" alt="">
-                    <img src="img/vendor-14.jpg" alt="">
-                    <img src="img/vendor-15.jpg" alt="">
-                    <img src="img/vendor-16.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-1.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-2.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-3.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-4.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-5.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-6.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-12.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-14.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-15.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-16.jpg" alt="">
                 </center>
             </div>
         </div>
@@ -376,7 +376,7 @@ let ourClientsNew = `
     <!-- Vendor End -->
 `;
 
-let ourPartnersNew = `
+const ourPartnersNew = `
     <div class="section-title text-center position-relative mt-5 mx-auto" style="max-width: 600px;">
         <!-- <h5 class="fw-bold text-primary text-uppercase"></h5> -->
         <h1 class="mb-0">Authorized Partners</h1>
@@ -385,19 +385,19 @@ let ourPartnersNew = `
         <div class="container py-5 mb-5">
             <div class="bg-white">
                 <center>
-                    <img src="img/vendor-7.jpg" alt="">
-                    <img src="img/vendor-8.jpg" alt="">
-                    <img src="img/vendor-9.jpg" alt="">
-                    <img src="img/vendor-10.jpg" alt="">
-                    <img src="img/vendor-11.jpg" alt="">
-                    <img src="img/vendor-13.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-7.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-8.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-9.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-10.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-11.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-13.jpg" alt="">
                 </center>
             </div>
         </div>
     </div>
 `;
 
-let testimonials = `
+const testimonials = `
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
