@@ -369,6 +369,16 @@ const ourClientsNew = `
                     <img class="img-fluid" src="img/vendor-14.jpg" alt="">
                     <img class="img-fluid" src="img/vendor-15.jpg" alt="">
                     <img class="img-fluid" src="img/vendor-16.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-12.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-13.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-14.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-15.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-16.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-17.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-18.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-19.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-20.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-21.jpg" alt="">
                 </center>
             </div>
         </div>
@@ -390,7 +400,8 @@ const ourPartnersNew = `
                     <img class="img-fluid" src="img/vendor-9.jpg" alt="">
                     <img class="img-fluid" src="img/vendor-10.jpg" alt="">
                     <img class="img-fluid" src="img/vendor-11.jpg" alt="">
-                    <img class="img-fluid" src="img/vendor-13.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-13.jpg" alt="">      
+                    <img class="img-fluid" src="img/vendor-17.jpg" alt="">
                 </center>
             </div>
         </div>
