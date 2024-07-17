@@ -379,6 +379,9 @@ const ourClientsNew = `
                     <img class="img-fluid" src="img/clients/vendor-19.jpg" alt="">
                     <img class="img-fluid" src="img/clients/vendor-20.jpg" alt="">
                     <img class="img-fluid" src="img/clients/vendor-21.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-22.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-23.jpg" alt="">
+                    <img class="img-fluid" src="img/clients/vendor-24.jpg" alt="">
                 </center>
             </div>
         </div>
@@ -402,6 +405,7 @@ const ourPartnersNew = `
                     <img class="img-fluid" src="img/vendor-11.jpg" alt="">
                     <img class="img-fluid" src="img/vendor-13.jpg" alt="">      
                     <img class="img-fluid" src="img/vendor-17.jpg" alt="">
+                    <img class="img-fluid" src="img/vendor-18.jpg" alt="">
                 </center>
             </div>
         </div>
